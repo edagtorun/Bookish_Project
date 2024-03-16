@@ -1,0 +1,94 @@
+{
+  "books": [
+    {
+      "id": "HP001",
+      "title": "Harry Potter Series",
+      "author": "J.K. Rowling",
+      "image": "/Harry_Pther.png",
+      "year": "1997-2007",
+      "page": "Varies",
+      "description": "A fantasy series following the life of a young wizard, Harry Potter, and his adventures at Hogwarts School of Witchcraft and Wizardry."
+    },
+    {
+      "id": "LOTR001",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "image": "/Lord_of_The_Rings.webp",
+      "year": "1954-1955",
+      "page": "Varies",
+      "description": "A high fantasy epic centered around the journey of a hobbit named Frodo Baggins to destroy the One Ring and defeat the Dark Lord Sauron."
+    },
+    {
+      "id": "ASOIAF001",
+      "title": "A Song of Ice and Fire",
+      "author": "George R.R. Martin",
+      "image": "/A_Song_of_Ice_and_Fire.jpg",
+      "year": "1996-present",
+      "page": "Varies",
+      "description": "A series of epic fantasy novels set in the fictional continents of Westeros and Essos, depicting the power struggles among noble families for control of the Iron Throne."
+    },
+    {
+      "id": "HG001",
+      "title": "The Hunger Games Trilogy",
+      "author": "Suzanne Collins",
+      "image": "/The_Hunger_Games_Trilogy.jpeg",
+      "year": "2008-2010",
+      "page": "Varies",
+      "description": "A dystopian trilogy set in a post-apocalyptic world where teenagers are forced to participate in a televised fight to the death known as the Hunger Games."
+    },
+    {
+      "id": "PJ001",
+      "title": "Percy Jackson & the Olympians",
+      "author": "Rick Riordan",
+      "image": "/Percy_Jackson_the_Olympians.jpeg",
+      "year": "2005-2009",
+      "page": "Varies",
+      "description": "A series revolving around a young demigod named Percy Jackson and his adventures as he discovers his divine heritage and battles mythological monsters."
+    },
+    {
+      "id": "Narnia001",
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "image": "/The_Chronicles_of_Narnia.webp",
+      "year": "1950-1956",
+      "page": "Varies",
+      "description": "A series of seven fantasy novels set in the fictional realm of Narnia, featuring various adventures and moral allegories."
+    },
+    {
+      "id": "HDM001",
+      "title": "His Dark Materials Trilogy",
+      "author": "Philip Pullman",
+      "image": "/His_Dark_Materials_Trilogy.jpg",
+      "year": "1995-2000",
+      "page": "Varies",
+      "description": "A fantasy trilogy set in a multiverse, following the adventures of two children, Lyra Belacqua and Will Parry, as they explore parallel universes and confront powerful forces."
+    },
+    {
+      "id": "MRS001",
+      "title": "The Maze Runner Series",
+      "author": "James Dashner",
+      "image": "/The_Maze_Runner_Series.jpg",
+      "year": "2009-2016",
+      "page": "Varies",
+      "description": "A science fiction dystopian series following a group of teenagers trapped in a deadly maze with no memory of their past, struggling to uncover the truth of their situation."
+    },
+    {
+      "id": "TS001",
+      "title": "The Twilight Saga",
+      "author": "Stephenie Meyer",
+      "image": "/The_Twilight_Saga.jpeg",
+      "year": "2005-2008",
+      "page": "Varies",
+      "description": "A series of vampire-themed romance novels centered around the relationship between a young woman named Bella Swan and a vampire named Edward Cullen."
+    },
+    {
+      "id": "DT001",
+      "title": "Divergent Trilogy",
+      "author": "Veronica Roth",
+      "image": "/Divergent.jpg",
+      "year": "2011-2013",
+      "page": "Varies",
+      "description": "A dystopian young adult trilogy set in a society divided into factions based on human virtues, following the journey of a young woman named Tris Prior."
+    }
+  ]
+}
